@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLSEncoderDecoder", "CLSEncoderDecoder\CLSEncoderDecoder.csproj", "{33ED8791-3E66-4157-88AA-D98899DE061E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLSEncoderDecoderTest", "CLSEncoderDecoderTest\CLSEncoderDecoderTest.csproj", "{C1A2BFE0-9D20-48E1-9D60-82A7259F668B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33ED8791-3E66-4157-88AA-D98899DE061E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ED8791-3E66-4157-88AA-D98899DE061E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ED8791-3E66-4157-88AA-D98899DE061E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ED8791-3E66-4157-88AA-D98899DE061E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A2BFE0-9D20-48E1-9D60-82A7259F668B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A2BFE0-9D20-48E1-9D60-82A7259F668B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A2BFE0-9D20-48E1-9D60-82A7259F668B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A2BFE0-9D20-48E1-9D60-82A7259F668B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
