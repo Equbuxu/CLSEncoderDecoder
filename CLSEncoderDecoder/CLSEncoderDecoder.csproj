@@ -9,11 +9,12 @@
         <Authors>Equbuxu</Authors>
         <Description>A simple encoder/decoder for Color Set files from Clip Studio Paint</Description>
         <PackageProjectUrl>https://github.com/Equbuxu/CLSEncoderDecoder</PackageProjectUrl>
-        <PackageLicenseUrl>https://github.com/Equbuxu/CLSEncoderDecoder/blob/master/LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/Equbuxu/CLSEncoderDecoder</RepositoryUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
     </PropertyGroup>
     <ItemGroup>
         <None Include="..\README.md" Pack="true" PackagePath="\"/>
+        <None Include="..\LICENSE" Pack="true" PackagePath=""/>
     </ItemGroup>
 </Project>
